@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @thedanijp
-- 👀 I’m interested in Pepeka, Soccer, Video Game, Star Wars, Anime and Sleep.
+- 👀 I’m interested in Soccer, Video Game, Star Wars, Anime and Sleep.
 - 🌱 I’m currently learning Python, Power Bi, HTML/CSS and PL/SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
