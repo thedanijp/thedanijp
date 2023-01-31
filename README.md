@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @thedanijp
+- 👋 Hi, I’m Daniel Mori Masuda
 - 👀 I’m interested in Soccer, Video Game, Star Wars, Anime and Sleep.
-- 🌱 I’m currently learning Python, Power Bi, HTML/CSS and PL/SQL
+- 🌱 I’m currently learning Python, Power Bi and PL/SQL
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
